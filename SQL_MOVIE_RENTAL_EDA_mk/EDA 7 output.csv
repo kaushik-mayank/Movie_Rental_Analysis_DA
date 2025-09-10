@@ -1,0 +1,109 @@
+country,category,rental_count,total_rentals,percent_share
+"American Samoa",Sports,5,20,25.00
+Iraq,Sports,6,27,22.22
+Tonga,Sports,4,18,22.22
+"Virgin Islands, U.S.",Animation,7,32,21.88
+Moldova,Children,7,34,20.59
+Armenia,Animation,5,25,20.00
+Bahrain,Sports,5,25,20.00
+"Congo, The Democratic Republic of the",Travel,10,50,20.00
+Gambia,Comedy,6,30,20.00
+Senegal,Sci-Fi,5,25,20.00
+"Sri Lanka",Children,6,30,20.00
+"North Korea",Documentary,6,31,19.35
+"French Guiana",Animation,4,22,18.18
+Madagascar,Horror,4,22,18.18
+Tunisia,Sci-Fi,4,23,17.39
+Afghanistan,Comedy,3,18,16.67
+Estonia,Family,5,30,16.67
+"New Zealand",Drama,4,24,16.67
+Nauru,Comedy,5,31,16.13
+"Saint Vincent and the Grenadines",Horror,4,25,16.00
+"Dominican Republic",Foreign,12,77,15.58
+Finland,Action,4,26,15.38
+Kuwait,Foreign,4,26,15.38
+Slovakia,Drama,4,26,15.38
+Tuvalu,Children,4,26,15.38
+Runion,Sci-Fi,7,46,15.22
+Mozambique,Documentary,12,80,15.00
+Cameroon,Foreign,8,54,14.81
+Sudan,Drama,8,54,14.81
+Turkmenistan,Games,4,27,14.81
+"Holy See (Vatican City State)",Documentary,5,34,14.71
+Anguilla,Travel,5,35,14.29
+Brunei,Sports,5,35,14.29
+"Faroe Islands",Family,4,28,14.29
+Liechtenstein,Action,4,28,14.29
+Malawi,Music,4,28,14.29
+Bulgaria,Sports,7,50,14.00
+"Czech Republic",Children,4,29,13.79
+Hungary,Family,4,29,13.79
+Nepal,Foreign,3,22,13.64
+Angola,Animation,7,52,13.46
+Kazakstan,Drama,7,52,13.46
+Myanmar,Comedy,7,52,13.46
+Algeria,Sci-Fi,12,90,13.33
+"Hong Kong",Sports,4,30,13.33
+Latvia,Sci-Fi,8,60,13.33
+Ethiopia,Family,3,23,13.04
+Greece,Sports,7,54,12.96
+Kenya,Action,7,54,12.96
+Paraguay,Horror,8,62,12.90
+Yemen,Action,15,117,12.82
+Morocco,Foreign,9,71,12.68
+Chad,Sports,4,32,12.50
+Lithuania,Children,3,24,12.50
+"Saudi Arabia",Animation,15,121,12.40
+Azerbaijan,Horror,7,57,12.28
+Yugoslavia,Animation,7,57,12.28
+Belarus,Action,8,66,12.12
+Zambia,Animation,4,33,12.12
+Spain,Games,17,142,11.97
+"United Arab Emirates",Drama,10,84,11.90
+Greenland,Games,4,34,11.76
+Sweden,Games,4,34,11.76
+Peru,Sports,13,112,11.61
+Austria,Family,9,78,11.54
+Ecuador,Animation,10,87,11.49
+"Puerto Rico",Games,7,61,11.48
+Switzerland,Classics,7,61,11.48
+France,Action,11,96,11.46
+Ukraine,Action,18,158,11.39
+Cambodia,Documentary,6,53,11.32
+Romania,Sci-Fi,7,62,11.29
+Chile,Action,8,71,11.27
+"French Polynesia",Classics,6,54,11.11
+Canada,Animation,15,137,10.95
+"South Africa",Sports,31,285,10.88
+Poland,Sports,22,203,10.84
+Tanzania,Music,9,83,10.84
+Germany,Animation,21,196,10.71
+Bolivia,Children,5,47,10.64
+Malaysia,Sci-Fi,9,85,10.59
+Egypt,Sci-Fi,17,161,10.56
+Argentina,Documentary,37,352,10.51
+Thailand,Sci-Fi,10,96,10.42
+"South Korea",Sports,14,135,10.37
+Philippines,Animation,58,568,10.21
+Israel,Sci-Fi,10,99,10.10
+Colombia,Animation,16,159,10.06
+Oman,Foreign,5,50,10.00
+Taiwan,Animation,30,305,9.84
+Netherlands,Animation,13,134,9.70
+"United Kingdom",Sports,21,219,9.59
+Italy,Family,18,189,9.52
+Venezuela,Action,16,170,9.41
+Pakistan,Sports,12,128,9.38
+Vietnam,New,16,172,9.30
+Iran,Classics,20,225,8.89
+Turkey,Drama,34,388,8.76
+Indonesia,Action,32,367,8.72
+Mexico,Sports,69,796,8.67
+Brazil,Sci-Fi,64,748,8.56
+Nigeria,Foreign,30,352,8.52
+Bangladesh,Foreign,8,95,8.42
+"Russian Federation",Family,60,713,8.42
+Japan,Animation,68,825,8.24
+China,Animation,113,1426,7.92
+"United States",Documentary,74,968,7.64
+India,Action,118,1572,7.51

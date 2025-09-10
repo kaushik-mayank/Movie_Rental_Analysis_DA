@@ -1,0 +1,3 @@
+store_id,country,city,address,busiest_day,busiest_hour,rentals_in_that_hour
+2,Australia,Woodridge,"28 MySQL Boulevard",Tuesday,15,144
+1,Canada,Lethbridge,"47 MySakila Drive",Tuesday,15,140

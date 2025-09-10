@@ -1,0 +1,3 @@
+staff_id,staff_name,total_customers,repeat_customers,total_rentals,repeat_rentals,repeat_customer_pct,repeat_rental_pct
+1,"Mike Hillyer",599,599,8040,7738,100.00,96.24
+2,"Jon Stephens",599,599,8004,7707,100.00,96.29
